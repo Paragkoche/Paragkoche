@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parag Koche</h1>
 <h3 align="center">A passionate Full Stack web developer from India</h3>
 
-<p align="left"> <img src="https://trophygh.kolioaris.xyz/?username=Paragkoche&theme=nord" alt="paragkoche" /> </p>
+<p align="left"> <p align="left"> <img src="https://trophygh.kolioaris.xyz/?username=Paragkoche&theme=nord" alt="paragkoche" /> </p> </p>
 
 <p align="left">  <img src="https://trophygh.kolioaris.xyz/?username=Paragkoche&theme=nord" alt="paragkoche" /> </p>
 
