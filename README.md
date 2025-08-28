@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://trophygh.kolioaris.xyz/?username=Paragkoche&theme=nord" alt="paragkoche" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paragkoche" alt="paragkoche" /></a> </p>
+<p align="left">  <img src="https://trophygh.kolioaris.xyz/?username=Paragkoche&theme=nord" alt="paragkoche" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
